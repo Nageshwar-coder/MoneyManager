@@ -1,0 +1,21 @@
+.history {
+  margin-top: 0;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1% 5% 1% 5%;
+  border: 1px solid #d7dfe9;
+  border-radius: 8px;
+}
+
+.delete-button {
+  width: 10%;
+  border-width: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.delete-image {
+  width: 100%;
+}

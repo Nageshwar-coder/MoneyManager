@@ -1,0 +1,50 @@
+.middle-container {
+  width: 80%;
+  margin-top: 2%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.details-container {
+  width: 30%;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.balance {
+  border: 2px solid #84cc16;
+  background-color: #ecfccb;
+}
+
+.income {
+  border: 2px solid #06b6d4;
+  background-color: #cffafe;
+}
+
+.expenses {
+  border: 2px solid #7c3aed;
+  background-color: #ede9fe;
+}
+
+.image {
+  width: 30%;
+  margin-left: 10%;
+}
+
+.text-container {
+  margin-left: 10%;
+  font-size: 18px;
+}
+
+.title {
+  color: #475569;
+}
+
+.amount {
+  font-size: 21px;
+  font-weight: 500;
+  color: #1e293b;
+}
